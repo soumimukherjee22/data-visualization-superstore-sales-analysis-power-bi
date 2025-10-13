@@ -128,7 +128,7 @@ Kaggle https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resourc
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Soumi Mukherjee**
-Aspiring Data Analyst | Power BI | SQL | Python | Data Storytelling
-📧 Email: soumi.mukherjee2003@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/soumi-mukherjee-34439b340)
+/-Aspiring Data Analyst | Power BI | SQL | Python | Data Storytelling
+/-📧 Email: soumi.mukherjee2003@gmail.com
+/-🔗 [LinkedIn](www.linkedin.com/in/soumi-mukherjee-34439b340)
 
