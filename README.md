@@ -51,7 +51,7 @@ To build an interactive Power BI dashboard that provides a 360° view of sales p
 -Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
 
 ---
-<h2><a class="anchor" id="tools--skills"></a>Tools \\\\\\\& Skills</h2>
+<h2><a class="anchor" id="tools--skills"></a>Tools & Skills</h2>
 
 - Power BI
 - Power Query (Data Cleaning)
@@ -92,7 +92,7 @@ Superstore-Sales-Analysis/
 │       └─ Screenshot_Shipment.png
 ```
 ---
-<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning \\\\\\\& Preparation</h2>
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 - Converted data types(text to date)
 - Handled missing values
