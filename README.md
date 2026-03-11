@@ -106,7 +106,7 @@ Superstore-Sales-Analysis/
 - **November–December** were the top-performing months in sales.
 
 ---
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+<h2><a class="anchor" id="dashboard"></a>Dashboard Overview</h2>
 
 ![Dashboard_images/Screenshot_Overview.png](https://github.com/soumimukherjee22/data-visualization-superstore-sales-analysis-power-bi/blob/main/Dashboard_images/Screenshot_Overview.png)
 
