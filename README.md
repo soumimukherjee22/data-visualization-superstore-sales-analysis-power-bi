@@ -108,7 +108,7 @@ Superstore-Sales-Analysis/
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-!([Dashboard_images/Screenshot_Overview.png](https://github.com/soumimukherjee22/data-visualization-superstore-sales-analysis-power-bi/blob/main/Dashboard_images/Screenshot_Overview.png))
+![Dashboard_images/Screenshot_Overview.png](https://github.com/soumimukherjee22/data-visualization-superstore-sales-analysis-power-bi/blob/main/Dashboard_images/Screenshot_Overview.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How To Run This Project</h2>
